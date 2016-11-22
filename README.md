@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hola Companeros de Clase de Estandares!
+
+Crear y comentar cambios!
